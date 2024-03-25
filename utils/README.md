@@ -1,7 +1,7 @@
-# GitHub3 ![license](https://img.shields.io/badge/license-MIT-blue)
+# Professional README ![license](https://img.shields.io/badge/license-Apache_license_2.0-blue)
   
 ## Description
- this is the description
+ This will generate a professional README.md file
 
 ## Table of Contents
  * [installation](#installation)
@@ -12,19 +12,19 @@
  * [questions](#questions)
 
 ## Installation
-npm i
+inquirer
 
 ## Usage
-this is the usage
+The usage of this project is to create a professional README.md file
 
 ## License
-MIT
+https://opensource.org/license/apache-2-0
 
 ## Contributors
-chris and giordan
+Giordan T
 
 ## Tests
-no testing
+There have been many tests done to this project
 
 ## Questions
-no questions
+I do not have any questions
